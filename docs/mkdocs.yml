@@ -1,0 +1,13 @@
+site_name: SkellyForge Documentation
+docs_dir: docs
+
+extra_css:
+    - 'css/custom.css'
+
+theme: 
+    name: lux
+    nav_style: dark
+
+nav:
+    - Home: 'index.md'
+    - Getting Started: 'getting_started.md'

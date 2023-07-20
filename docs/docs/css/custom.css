@@ -1,0 +1,24 @@
+code, pre {
+    background-color: #f5f5f5; /* Replace with your preferred color */
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #e17721; /* Replace with your preferred color */
+}
+
+h2 {
+    color: #02887b; 
+}
+
+html {
+    font-size: 150%; /* Adjust to desired size */
+}
+
+.container {
+    max-width: 65%; /* Adjust to your preferred width */
+}
+
+/* b, strong {
+    font-weight: bold;
+    background-color: #e3f8f3; 
+} */
