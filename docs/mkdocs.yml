@@ -5,7 +5,7 @@ extra_css:
     - 'css/custom.css'
 
 theme: 
-    name: lux
+    name: 'lux' 
     nav_style: dark
 
 nav:
